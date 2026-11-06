@@ -1,4 +1,5 @@
-# GPT from Scratch (Character-Level Transformer in PyTorch)
+   ![loss curve](loss_curve.png)
+   # GPT from Scratch (Character-Level Transformer in PyTorch)
 
 A decoder-only Transformer (GPT) implemented from scratch in PyTorch and trained on the Tiny Shakespeare dataset to generate Shakespeare-style text one character at a time.
 
